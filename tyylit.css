@@ -1,0 +1,18 @@
+
+body
+    {background-color:rgb(238, 226, 208); }
+h2 {font-size: 80px;} 
+h1,h3 {font-size: 100px;color: green;text-align: center;text-decoration-line: underline;}
+body {font-style:inherit;}
+h5 {font-size: 18px;font-style:normal;color: green;}
+p {font-size: 20px; font-style:normal;}
+list {font-size: 20px;}
+ul  {font-size: 30px; color:rgba(245, 3, 3, 0.926)}
+list {color: rgb(22, 104, 22)}
+[target] {color:red ;text-decoration-line: underline;}
+img {padding-left: 80px;padding-top: 1px;width: 500px;}
+
+
+
+
+
